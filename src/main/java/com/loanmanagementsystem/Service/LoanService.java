@@ -5,7 +5,9 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 
 import java.util.List;
-
+/*
+ *  @Author : Honore Nsabo
+ * */
 public interface LoanService {
     List<Loan> getAllLoan();
     Loan saveLoan(Loan loan);

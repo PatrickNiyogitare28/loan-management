@@ -1,7 +1,9 @@
 package com.loanmanagementsystem.Entity;
 
 import jakarta.persistence.*;
-
+/*
+ *  @Author : Honore Nsabo
+ * */
 @Entity
 @Table(name = "Loan")
 public class Loan {
