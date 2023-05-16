@@ -1,0 +1,6 @@
+com/loanmanagementsystem/LoanManagementSystemApplication.class
+com/loanmanagementsystem/Service/impl/LoanServiceImpl.class
+com/loanmanagementsystem/Repository/LoanRepository.class
+com/loanmanagementsystem/Controller/LoanController.class
+com/loanmanagementsystem/Entity/Loan.class
+com/loanmanagementsystem/Service/LoanService.class
